@@ -7,3 +7,7 @@
 `error next-auth@4.12.3: The engine "node" is incompatible with this module. Expected version "^12.19.0 || ^14.15.0 || ^16.13.0". Got "18.9.0"`
 
 このエラーのためnodeのversionは16.13.0にすること
+
+## nextjs-app-directory-demo
+
+[新しいNext.jsの入門 ─ App DirectoryによるWeb開発をハンズオンで理解しよう](https://eh-career.com/engineerhub/entry/2023/04/18/093000)の書写
