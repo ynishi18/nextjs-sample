@@ -11,3 +11,7 @@
 ## nextjs-app-directory-demo
 
 [新しいNext.jsの入門 ─ App DirectoryによるWeb開発をハンズオンで理解しよう](https://eh-career.com/engineerhub/entry/2023/04/18/093000)の書写
+
+## ref.
+
+[[WIP]Next.jsとFirebaseによる実用Webアプリ開発](https://zenn.dev/nino_cast/books/43c539eb47caab)
