@@ -14,6 +14,8 @@
 
 ## ref.
 
+[FirebaseとTypeScriptとNext.jsを使ってリアルタイムチャットアプリを作ろう](https://zenn.dev/hisho/books/617d8f9d6bd78b)
+
 [[WIP]Next.jsとFirebaseによる実用Webアプリ開発](https://zenn.dev/nino_cast/books/43c539eb47caab)
 
 [Next.jsで作成する管理画面作成チュートリアル](https://zenn.dev/thirosue/books/13ac92fc34ae22)
