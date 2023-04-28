@@ -18,6 +18,8 @@
 
 [[WIP]Next.jsとFirebaseによる実用Webアプリ開発](https://zenn.dev/nino_cast/books/43c539eb47caab)
 
+[出来る100%TypeScript 作って学ぶNext.js + GraphQL + Prisma(上) - GCP編](https://zenn.dev/oubakiou/books/181b750dfb6838)
+
 [Next.jsで作成する管理画面作成チュートリアル](https://zenn.dev/thirosue/books/13ac92fc34ae22)
 
 　　とても参考になりそうだけど、初学者向けではない
